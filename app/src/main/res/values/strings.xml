@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cafe</string>
+    <string name="text_welcome">Ласкаво просимо!</string>
+    <string name="person_name">Person name:</string>
+    <string name="password">Password:</string>
+    <string name="sign_in">Sign in</string>
+</resources>
