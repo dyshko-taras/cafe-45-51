@@ -14,9 +14,9 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:adjustViewBounds="true"
+        android:contentDescription="@null"
         android:padding="20sp"
-        app:srcCompat="@drawable/ic_mcdonald_s_logo"
-        android:contentDescription="@null" />
+        app:srcCompat="@drawable/ic_mcdonald_s_logo" />
 
     <TextView
         android:id="@+id/textView5"

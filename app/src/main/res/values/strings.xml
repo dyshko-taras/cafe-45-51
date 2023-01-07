@@ -4,4 +4,22 @@
     <string name="person_name">Person name:</string>
     <string name="password">Password:</string>
     <string name="sign_in">Sign in</string>
+    <string name="hi_s_what_would_you_like">HI %s, what would you like?</string>
+    <string name="tea">Tea</string>
+    <string name="coffee">Coffee</string>
+    <string name="what_to_add_to_your_s">What to add to your %s</string>
+    <string name="sugar">Sugar</string>
+    <string name="lemon">Lemon</string>
+    <string name="milk">Milk</string>
+    <string name="choose_the_type_of_drink">Choose the type of drink</string>
+    <string name="make_order">Make order</string>
+    <string-array name="type_of_tea">
+        <item>Green</item>
+        <item>Black</item>
+    </string-array>
+    <string-array name="type_of_coffee">
+        <item>Latte</item>
+        <item>Americano</item>
+        <item>Espresso</item>
+    </string-array>
 </resources>
