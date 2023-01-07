@@ -13,6 +13,10 @@
     <string name="milk">Milk</string>
     <string name="choose_the_type_of_drink">Choose the type of drink</string>
     <string name="make_order">Make order</string>
+    <string name="name">Name:</string>
+    <string name="the_type_of_drink">The type of drink:</string>
+    <string name="additives">Additives:</string>
+    <string name="drink">Drink:</string>
     <string-array name="type_of_tea">
         <item>Green</item>
         <item>Black</item>
