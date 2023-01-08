@@ -4,10 +4,10 @@
     <string name="person_name">Person name:</string>
     <string name="password">Password:</string>
     <string name="sign_in">Sign in</string>
-    <string name="hi_s_what_would_you_like">HI %s, what would you like?</string>
+    <string name="hi_s_what_would_you_like">HI %s! What would you like?</string>
     <string name="tea">Tea</string>
     <string name="coffee">Coffee</string>
-    <string name="what_to_add_to_your_s">What to add to your %s</string>
+    <string name="what_to_add_to_your_s">What to add to your %s?</string>
     <string name="sugar">Sugar</string>
     <string name="lemon">Lemon</string>
     <string name="milk">Milk</string>
